@@ -3,7 +3,7 @@
 <div align="center">
  <a href="https://github.com/Eng-Zeus-Vianna", >
  <img altura="100em" src="https://github-readme-stats.vercel.app/api?username=Eng-Zeus-Vianna&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- <img altura="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Zeus-Vianna&layout=compact&langs_count=7&theme=merko"/>
+ <img height="60" width="70" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Zeus-Vianna&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br> <!- "img" repesenta a inserção de imagem no documento; "aligh" e o aliamento do elemento; "alt" mostra um testo alternativo caso o carregamento falhe; "height" e a altura; "width" e a altura; "src" e a tag para inserir imagem de um site; "href" e o atributo que define a url da hiperlincação; "target" e um atributo que define como uma hiperlincação sera aberta->
 
