@@ -7,12 +7,11 @@
 </div>
 <div style="display: inline_block"><br> <!- "img" repesenta a inserção de imagem no documento; "aligh" e o aliamento do elemento; "alt" mostra um testo alternativo caso o carregamento falhe; "height" e a altura; "width" e a altura; "src" e a tag para inserir imagem de um site; "href" e o atributo que define a url da hiperlincação; "target" e um atributo que define como uma hiperlincação sera aberta->
 
- ##  Languages...
+##  Languages...
 <img align="center" alt="Zeus-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img align="center" alt="Zeus-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Zeus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img aligh="center" alt="Zeus-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img aligh="center" alt="Zeus-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="right" alt="Zeus-pix" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58530995/147854846-83d65733-a661-4979-bc28-6c94901cf2f4.png">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
@@ -31,11 +30,15 @@
  ##
  
  <div>
- ##  Skills...
+  
+ ## Skills
+ 
+  
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img aligh="center" alt="Zeus-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+ <img aligh="center" alt="Zeus-REACT" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  
  ##
  
