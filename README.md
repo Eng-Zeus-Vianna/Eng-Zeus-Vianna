@@ -13,6 +13,7 @@
 <img align="center" alt="Zeus-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Zeus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img aligh="center" alt="Zeus-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="right" alt="Zeus-pix" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58530995/147854846-83d65733-a661-4979-bc28-6c94901cf2f4.png">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
