@@ -1,4 +1,4 @@
-##  Hi, i am Zeus Viana, I have a degree in Environmental Engineering from UNISA SP and at the moment Study Analysis and Development of Systems by PUC Minas.!
+##  Hi, i am Zeus Viana, I have a degree in Environmental Engineering from UNISA SP and at the moment Study Analysis and Development of Systems by PUC.!
 ### GitHub Analytics:
 
 <div align="center">
