@@ -1,4 +1,4 @@
-##  Hello, I'm Zeus Viana, I have a degree in Environmental Engineering from UNISA SP and I'm doing a Master's in Quality and Environment Engineering at ISEL Lisbon Higher Institute of Engineering.!
+##  Hello, I'm Zeus Viana, I have a degree in Environmental Engineering from UNISA SP and I'm doing a Master's in Quality and Environmental Engineering at ISEL Instituto Superior de Engenharia de Lisboa and a Graduation in Analysis and System Development at PUC Minas.!
 ### GitHub Analytics:
 
 <div align="center">
